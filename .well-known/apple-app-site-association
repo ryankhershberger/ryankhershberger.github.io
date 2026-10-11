@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["79MBRMSN89.com.hershapplications.stackd"],
+        "components": [
+          { "/": "/stackd/join*", "comment": "STACKD poker night invites" }
+        ]
+      }
+    ]
+  }
+}
